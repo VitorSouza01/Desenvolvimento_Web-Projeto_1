@@ -4,6 +4,7 @@
 O projeto é referente a 'Seção 3: HTML 5' do curso "Desenvolvimento Web Completo 2023 - 20 cursos + 20 projetos" da plataforma da Udemy.
 Nesse projeto é criado um site fictício de uma universidade usando somente Html. Mesmo o site sendo simples, nela possui pagina 'Home,' 'Quem somos' e 'Contato'.
 
+Link do Curso: https://www.udemy.com/course/web-completo/
 
 ## 🖥️ Tecnologia Utilizada
 - Html
